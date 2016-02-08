@@ -13,8 +13,7 @@ var colorMap = {
 	purple:    '90C',
 	brown:     '520',
 	black:     '000',
-
-
+	
 	//  Remaining Grayscale.
 	
 	gray:      '888',
@@ -34,16 +33,55 @@ var colorMap = {
 	gold:      'FB0',
 	beige:     'DCB',
 	turquoise: '0DC',//0C9
-	maroon:    '800'
+	maroon:    '800',
 
 
-	//  You want more colors?
-	//  Knock yourself out kid.
-	//  Hell, just automate it via CSS named colors:
+	//  You want more colors? - YUP :)
+	//  Knock yourself out kid. - Will do... Did.
+	//  Hell, just automate it via CSS named colors: - (Nah, how about some other languages)
 	//  http://en.wikipedia.org/wiki/X11_color_names
 	//  As for me?
 	//  I’m happy with this custom curation, 
 	//  tuned to my own eyes. Basic, simple, bold.
+
+	//  OOOOOOhhhh colors in all lanugages!!
+	//  http://omniglot.com/language/colours/multilingual.htm
+
+	//  Here are a few I just wanted to get started with, but perhaps this can be exhaustive :)
+	//  French...
+
+	rouge:    'C00',
+	jaune:    'FC0',
+	vert:     '090',
+	bleu:     '03C',
+	violet:   '90C',
+	brun:     '520',
+	noir:     '000',
+	blanc:    'EEE',
+
+	//  German...
+	schwarz: '000',
+
+	//  Japanese...
+
+
+	//  Spanish
+	rojo:      'C00', 
+	roja:      'C00',
+	naranjo:   'F60',
+	naranja:   'F60',
+	amarillo:  'FC0',
+	amarilla:  'FC0',
+	verde:     '090',
+	azul:      '03C',
+	morado:    '90C',
+	morada:    '90C',
+	marron:    '520',
+	negro:     '000',
+	negra:     '000',
+	gris:      '888', 
+	blanco:    'EEE',
+	blanca:    'EEE' 
 }
 
 
